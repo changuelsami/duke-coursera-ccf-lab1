@@ -1,2 +1,2 @@
 # duke-coursera-ccf-lab1
-Example code for Lab1
+This is my 1st lab
